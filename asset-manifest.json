@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dvdibd/react-app-contact/static/css/main.37b183c7.css",
+    "main.js": "/dvdibd/react-app-contact/static/js/main.ea828e33.js",
+    "static/js/787.c45cc61a.chunk.js": "/dvdibd/react-app-contact/static/js/787.c45cc61a.chunk.js",
+    "index.html": "/dvdibd/react-app-contact/index.html",
+    "main.37b183c7.css.map": "/dvdibd/react-app-contact/static/css/main.37b183c7.css.map",
+    "main.ea828e33.js.map": "/dvdibd/react-app-contact/static/js/main.ea828e33.js.map",
+    "787.c45cc61a.chunk.js.map": "/dvdibd/react-app-contact/static/js/787.c45cc61a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37b183c7.css",
+    "static/js/main.ea828e33.js"
+  ]
+}
